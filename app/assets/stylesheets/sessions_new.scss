@@ -1,0 +1,49 @@
+.Welcome {
+  color: #ccc;
+  text-align: center;
+}
+
+.background-pass {
+  background-color:gray;
+}
+
+.Copyright {
+  font-size: 1em;
+  text-align: center;
+  clear: both;
+  color: #ccc;
+}
+
+.form-container {
+  margin: 70px auto auto auto;
+  max-width: 40%;
+  .panel-heading {
+    text-align:center;
+  }
+}
+
+.panel-default > .login > .panel-heading {
+  color: #333;
+  background-color: aqua;
+  border-color: #fff;
+}
+
+.alert {
+  text-align: center;
+  color: whitesmoke;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto 13em;
+}
+
+.footer, .push {
+  height: -13m;
+}
+
+.btn {
+  padding: 10px;
+}
